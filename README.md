@@ -1,4 +1,4 @@
-# Dat_Sm_Article_Fresh Seed _2019 # at Nguyen Van # Homework 03 _Magento_practise 
+# Dat_Sm_Article_Fresh Seed _2019 # Dat Nguyen Van # Homework 03 _Magento_practise 
 
 Step1: Create folder follow url: /app/code/Smartosc. Then, coppy this folder and paste it.
 
